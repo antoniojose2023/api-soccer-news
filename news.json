@@ -1,0 +1,36 @@
+[
+
+{ 
+  "id":"1",
+  "title":"Brasil vence o Uruguai",
+  "description":"conquista Sul-Americano e garante a classificação para o Mundial Sub-20 Feminino",
+  "image":"https://ge.globo.com/futebol/futebol-internacional/noticia/2022/04/21/brasil-vence-o-uruguai-e-fica-perto-da-vaga-no-mundial-sub-20-feminino.ghtml",
+  "url":"https://ge.globo.com/futebol/futebol-internacional/noticia/2022/04/21/brasil-vence-o-uruguai-e-fica-perto-da-vaga-no-mundial-sub-20-feminino.ghtml",
+},
+
+{ 
+  "id":"2",
+  "title":"Com três gols em 16 minutos",
+  "description":"Corinthians bate Real Brasília e vira vice-líder do Brasileirão Feminino",
+  "image":"https://ge.globo.com/futebol/times/corinthians/noticia/2022/04/17/noticias-corinthians-feminino-resultado-real-brasilia-classificacao-vitoria.ghtml",
+  "url":"https://ge.globo.com/futebol/times/corinthians/noticia/2022/04/17/noticias-corinthians-feminino-resultado-real-brasilia-classificacao-vitoria.ghtml",
+},
+
+{ 
+  "id":"3",
+  "title":"Brasileirão Feminino Sub-17",
+  "description":"Flamengo goleia o Atlético-MG, e clubes se despedem da competição",
+  "image":"https://ge.globo.com/futebol/futebol-feminino/noticia/2022/04/17/brasileirao-feminino-sub-17-flamengo-goleia-o-atletico-mg-e-clubes-se-despedem-da-competicao.ghtml",
+  "url":"https://ge.globo.com/futebol/futebol-feminino/noticia/2022/04/17/brasileirao-feminino-sub-17-flamengo-goleia-o-atletico-mg-e-clubes-se-despedem-da-competicao.ghtml",
+},
+
+
+{ 
+  "id":"4",
+  "title":"Formiga",
+  "description":"o discreto fenômeno de peso imensurável",
+  "image":"https://ge.globo.com/ep/iam-possible-news/noticia/2022/04/04/formiga-o-discreto-fenomeno-de-peso-imensuravel.ghtml",
+  "url":"https://ge.globo.com/ep/iam-possible-news/noticia/2022/04/04/formiga-o-discreto-fenomeno-de-peso-imensuravel.ghtml",
+},
+
+]
