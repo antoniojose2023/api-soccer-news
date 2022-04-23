@@ -1,5 +1,4 @@
 [
-
 { 
   "id":"1",
   "title":"Brasil vence o Uruguai",
@@ -7,7 +6,6 @@
   "image":"https://ge.globo.com/futebol/futebol-internacional/noticia/2022/04/21/brasil-vence-o-uruguai-e-fica-perto-da-vaga-no-mundial-sub-20-feminino.ghtml",
   "url":"https://ge.globo.com/futebol/futebol-internacional/noticia/2022/04/21/brasil-vence-o-uruguai-e-fica-perto-da-vaga-no-mundial-sub-20-feminino.ghtml",
 },
-
 { 
   "id":"2",
   "title":"Com três gols em 16 minutos",
@@ -15,7 +13,6 @@
   "image":"https://ge.globo.com/futebol/times/corinthians/noticia/2022/04/17/noticias-corinthians-feminino-resultado-real-brasilia-classificacao-vitoria.ghtml",
   "url":"https://ge.globo.com/futebol/times/corinthians/noticia/2022/04/17/noticias-corinthians-feminino-resultado-real-brasilia-classificacao-vitoria.ghtml",
 },
-
 { 
   "id":"3",
   "title":"Brasileirão Feminino Sub-17",
@@ -23,8 +20,6 @@
   "image":"https://ge.globo.com/futebol/futebol-feminino/noticia/2022/04/17/brasileirao-feminino-sub-17-flamengo-goleia-o-atletico-mg-e-clubes-se-despedem-da-competicao.ghtml",
   "url":"https://ge.globo.com/futebol/futebol-feminino/noticia/2022/04/17/brasileirao-feminino-sub-17-flamengo-goleia-o-atletico-mg-e-clubes-se-despedem-da-competicao.ghtml",
 },
-
-
 { 
   "id":"4",
   "title":"Formiga",
@@ -32,5 +27,4 @@
   "image":"https://ge.globo.com/ep/iam-possible-news/noticia/2022/04/04/formiga-o-discreto-fenomeno-de-peso-imensuravel.ghtml",
   "url":"https://ge.globo.com/ep/iam-possible-news/noticia/2022/04/04/formiga-o-discreto-fenomeno-de-peso-imensuravel.ghtml",
 },
-
 ]
